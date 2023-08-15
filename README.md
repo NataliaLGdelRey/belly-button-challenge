@@ -1,14 +1,23 @@
 ---
 title: "Module 14 Challenge"
 ---
+
+Deployment
+
+GitHub Pages
+
+Here is a link to the dashboard: https://natalialgdelrey.github.io/belly-button-challenge/
+
+------------
+
 References
 
 -------------
  - https://github.com/elsafig
+ - https://github.com/JeremyTallant
  - https://github.com/SyedFarman
  - https://github.com/DataTell
  - https://github.com/VL14
-
 
 
 ----------
