@@ -86,6 +86,7 @@ selectedBubble_layout = {
 Plotly.newPlot("bubble", selectedBubble, selectedBubble_layout);
 
 // 4. Display the sample metadata, i.e., an individual's demographic information.
+// 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
  //find the data associated with the selection from dropdown and store for further processing
  let metaArray = data.metadata.filter(sampleObj => sampleObj.id == selectedSample);
@@ -106,8 +107,6 @@ Plotly.newPlot("bubble", selectedBubble, selectedBubble_layout);
  d3.selectAll("li").style("list-style-type", "none");
 });
 }
-
-// 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
 // 6. Update all the plots when a new sample is selected.
 //Additionally, you are welcome to create any layout that you would like for your dashboard.
