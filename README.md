@@ -1,7 +1,17 @@
 ---
 title: "Module 14 Challenge"
 ---
+References
 
+-------------
+ - https://github.com/elsafig
+ - https://github.com/SyedFarman
+ - https://github.com/DataTell
+ - https://github.com/VL14
+
+
+
+----------
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m14/lms/img/banner.jpg" alt="lesson banner" />
 
 ### Background
